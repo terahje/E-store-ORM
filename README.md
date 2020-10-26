@@ -23,7 +23,7 @@ npm i dotenv<br>
 ## Usage
 * In root directory, initialize application with npm start.
 * Seed database with npm run seed.
-https://drive.google.com/file/d/1Zn08lHhGWgnvADjbGvwVaQCEp8_t3jOK/view
+[For video instructions:] (https://drive.google.com/file/d/1Zn08lHhGWgnvADjbGvwVaQCEp8_t3jOK/view)
 
 
 ## Tests
@@ -32,8 +32,6 @@ https://drive.google.com/file/d/1Zn08lHhGWgnvADjbGvwVaQCEp8_t3jOK/view
 ## License
 ### This license is covered under the following license(s):
 MIT License
-
-Copyright (c) 2015 - present Microsoft Corporation
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
