@@ -53,6 +53,6 @@ SOFTWARE.
 
 ## Questions :question:
 For further questions on this project or future collaboration contact me at:<br>
-* GitHub: terahje
+* GitHub: [terahje](https://github.com/terahje)
 * Email: terahjequinn@gmail.com
 * Repository link: https://github.com/terahje/E-store-ORM
