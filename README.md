@@ -15,10 +15,10 @@ Backend of an E-commerce store to better organize products.  Can view, create, u
 [Questions](#questions)<br>
 ***
 ## Installation
-npm i express sequelize mysql2
-npm install --save sequelize
-npm i bcrypt
-npm i dotenv
+npm i express sequelize mysql2<br>
+npm install --save sequelize<br>
+npm i bcrypt<br>
+npm i dotenv<br>
 
 ## Usage
 * In root directory, initialize application with npm start.
