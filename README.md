@@ -6,7 +6,6 @@ Object-Relational Mapping (ORM) Challenge: E-commerce Back End
 ## Description
 Backend of an E-commerce store to better organize products.  Can view, create, update and delete for ultimate control over your inventory.
 
-***
 ## Table of Contents
 [Installation](#installation)<br>
 [Usage](#usage)<br>
