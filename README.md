@@ -23,7 +23,7 @@ npm i dotenv<br>
 ## Usage
 * In root directory, initialize application with npm start.
 * Seed database with npm run seed.
-* [For video instructions:] https://drive.google.com/file/d/1Zn08lHhGWgnvADjbGvwVaQCEp8_t3jOK/view
+* [For video instructions:](https://drive.google.com/file/d/1Zn08lHhGWgnvADjbGvwVaQCEp8_t3jOK/view)
 
 
 ## Tests
